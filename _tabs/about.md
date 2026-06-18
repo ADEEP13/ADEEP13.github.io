@@ -1,3 +1,7 @@
+---
+icon: fas fa-info-circle
+order: 4
+---
 # About Me
 
 Hi, I'm Adeep AG, a Information Science and Engineering (ISE) student at SVIT Bengaluru.
