@@ -2,7 +2,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# About Me
+## What I actually am
 
 Thank you for showing interest in me. I think you are one of the few people out of a few billion who ended up on this page.
 
